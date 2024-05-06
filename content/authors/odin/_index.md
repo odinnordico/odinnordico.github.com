@@ -80,17 +80,17 @@ skills:
         description: ''
         percent: 100
         icon: motorcycle
-        icon_pack: fab
+        icon_pack: fas
       - name: Dogs
         description: ''
         percent: 100
         icon: dog
-        icon_pack: fab
+        icon_pack: fas
       - name: Videogames
         description: ''
         percent: 60
         icon:  gamepad
-        icon_pack: fab
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -115,9 +115,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
