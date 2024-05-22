@@ -184,6 +184,36 @@ sections:
           organization_url: https://www.coursera.org
           title: 'CKAD: Certified Kubernetes Application Developer'
           url: https://www.credly.com/badges/9f1e662a-fe94-4de7-8865-892a6dd2ecf9
+        - certificate_url: https://www.udemy.com/certificate/UC-c60e8396-2a0c-4797-9319-ba0ed9f804dc/
+          date_end: '2021-05-14'
+          date_start: ''
+          description: |2-
+            The most comprehensive guide that will make you a Software Architect, the most desired role in the software industry.
+          icon: udemi
+          organization: Udemi
+          organization_url: https://www.udemy.com/
+          title: 'The Complete Guide to Becoming a Software Architect'
+          url: 'https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect'
+        - certificate_url: https://www.udemy.com/certificate/UC-2944e6c4-b674-4011-a303-9a3b58f5c529/
+          date_end: '2020-09-08'
+          date_start: ''
+          description: |2-
+            Master the fundamentals and advanced features of the Go Programming Language (Golang)
+          icon: udemi
+          organization: Udemi
+          organization_url: https://www.udemy.com/
+          title: 'Go: The Complete Developer`s Guide (Golang)'
+          url: 'https://www.udemy.com/course/go-the-complete-developers-guide'
+        - certificate_url: https://www.udemy.com/certificate/UC-3eb6b571-cc7c-4a10-a1ab-a52073410c3a/
+          date_end: '2020-06-22'
+          date_start: ''
+          description: |2-
+            Learn, build and implement the most powerful AI model at home. Compete with multi-billion dollars companies using ARS.
+          icon: udemi
+          organization: Udemi
+          organization_url: https://www.udemy.com/
+          title: 'Artificial Intelligence (ARS): Build the Most Powerful AI'
+          url: 'https://www.udemy.com/course/artificial-intelligence-ars'
     design:
       columns: '2'
   # - block: collection

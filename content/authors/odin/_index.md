@@ -50,7 +50,7 @@ skills:
     items:
       - name: Golang
         description: ''
-        percent: 90
+        percent: 85
         icon: go
         icon_pack: fab
       - name: Python
