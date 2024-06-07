@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -14,11 +14,11 @@ sections:
   - block: skills
     content:
       title: Skills
-      text: ''
+      text: ""
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: odin
     design:
-      columns: '1'
+      columns: "1"
   - block: experience
     content:
       title: Experience
@@ -36,8 +36,8 @@ sections:
           company_url: https://docs.vmware.com/en/VMware-Tanzu/index.html
           company_logo: tanzu
           location: Remote - Colombia
-          date_start: '2024-02-01'
-          date_end: '2024-06-03'
+          date_start: "2024-02-01"
+          date_end: "2024-06-03"
           description: |2-
               Responsibilities include:
 
@@ -52,8 +52,8 @@ sections:
           company_url: https://docs.vmware.com/en/VMware-Tanzu/index.html
           company_logo: tanzu
           location: Remote - Colombia
-          date_start: '2023-02-01'
-          date_end: '2020-12-01'
+          date_start: "2023-02-01"
+          date_end: "2020-12-01"
           description: |2-
               Responsibilities include:
 
@@ -68,8 +68,8 @@ sections:
           company_url: https://co.addi.com/
           company_logo: addi
           location: Remote - Colombia
-          date_start: '2021-04-01'
-          date_end: '2021-08-01'
+          date_start: "2021-04-01"
+          date_end: "2021-08-01"
           description: |2-
               Responsibilities include:
 
@@ -84,8 +84,8 @@ sections:
           company_url: https://blanclabs.com/
           company_logo: blanclabs
           location: Remote - Colombia
-          date_start: '2019-04-01'
-          date_end: '2021-04-01'
+          date_start: "2019-04-01"
+          date_end: "2021-04-01"
           description: |2-
               Responsibilities include:
 
@@ -100,8 +100,8 @@ sections:
           company_url: https://www.globant.com/
           company_logo: globant
           location: Remote - Colombia
-          date_start: '2015-10-01'
-          date_end: '2019-04-01'
+          date_start: "2015-10-01"
+          date_end: "2019-04-01"
           description: |2-
               Responsibilities include:
 
@@ -116,8 +116,8 @@ sections:
           company_url: https://www.linkedin.com/in/dragon-tech-a35aa780/
           company_logo: dragontech
           location: Bogota - Colombia
-          date_start: '2013-04-01'
-          date_end: '2015-09-01'
+          date_start: "2013-04-01"
+          date_end: "2015-09-01"
           description: |2-
               Responsibilities include:
 
@@ -132,8 +132,8 @@ sections:
           company_url: https://itac.co
           company_logo: itac
           location: Bogota - Colombia
-          date_start: '2012-11-01'
-          date_end: '2013-03-01'
+          date_start: "2012-11-01"
+          date_end: "2013-03-01"
           description: |2-
               Responsibilities include:
 
@@ -148,8 +148,8 @@ sections:
           company_url: https://products.mobile-americas.com/
           company_logo: smsa
           location: Bogota - Colombia
-          date_start: '2011-02-01'
-          date_end: '2012-11-01'
+          date_start: "2011-02-01"
+          date_end: "2012-11-01"
           description: |2-
               Responsibilities include:
 
@@ -160,11 +160,11 @@ sections:
               * Testing
               * Support
     design:
-      columns: '2'
+      columns: "2"
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: "Accomplish&shy;ments"
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -175,47 +175,57 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.credly.com/badges/9f1e662a-fe94-4de7-8865-892a6dd2ecf9
-          date_end: '2022-10-14'
-          date_start: '2022-10-14'
+          date_end: "2022-10-14"
+          date_start: "2022-10-14"
           description: |2-
             Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Application Developer. Earners are able to define application resources and use core primitives to build, monitor, and troubleshoot scalable applications and tools in Kubernetes. The skills and knowledge demonstrated by earners include Core Concepts, Configuration, Multi-Container Pods, Observability, Pod Design, Services & Networking, State Persistence.
           icon: ckad
           organization: The Linux Foundation
           organization_url: https://www.coursera.org
-          title: 'CKAD: Certified Kubernetes Application Developer'
+          title: "CKAD: Certified Kubernetes Application Developer"
           url: https://www.credly.com/badges/9f1e662a-fe94-4de7-8865-892a6dd2ecf9
+        - certificate_url: https://www.udemy.com/certificate/UC-64d1cc47-7b2d-433c-8c38-47fec846eae7/
+          date_end: "2024-06-07"
+          date_start: "2024-06-07"
+          description: |2-
+            Streamline your development by learning how common design patterns are implement in Go.
+          icon: udemy
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: "Working with Design Patterns in Go (Golang)"
+          url: "https://www.udemy.com/course/working-with-design-patterns-in-go-golang"
         - certificate_url: https://www.udemy.com/certificate/UC-c60e8396-2a0c-4797-9319-ba0ed9f804dc/
-          date_end: '2021-05-14'
-          date_start: '2021-05-14'
+          date_end: "2021-05-14"
+          date_start: "2021-05-14"
           description: |2-
             The most comprehensive guide that will make you a Software Architect, the most desired role in the software industry.
           icon: udemy
           organization: Udemy
           organization_url: https://www.udemy.com/
-          title: 'The Complete Guide to Becoming a Software Architect'
-          url: 'https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect'
+          title: "The Complete Guide to Becoming a Software Architect"
+          url: "https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect"
         - certificate_url: https://www.udemy.com/certificate/UC-2944e6c4-b674-4011-a303-9a3b58f5c529/
-          date_end: '2020-09-08'
-          date_start: '2020-09-08'
+          date_end: "2020-09-08"
+          date_start: "2020-09-08"
           description: |2-
             Master the fundamentals and advanced features of the Go Programming Language (Golang)
           icon: udemy
           organization: Udemy
           organization_url: https://www.udemy.com/
-          title: 'Go: The Complete Developer`s Guide (Golang)'
-          url: 'https://www.udemy.com/course/go-the-complete-developers-guide'
+          title: "Go: The Complete Developer`s Guide (Golang)"
+          url: "https://www.udemy.com/course/go-the-complete-developers-guide"
         - certificate_url: https://www.udemy.com/certificate/UC-3eb6b571-cc7c-4a10-a1ab-a52073410c3a/
-          date_end: '2020-06-22'
-          date_start: '2020-06-22'
+          date_end: "2020-06-22"
+          date_start: "2020-06-22"
           description: |2-
             Learn, build and implement the most powerful AI model at home. Compete with multi-billion dollars companies using ARS.
           icon: udemy
           organization: Udemy
           organization_url: https://www.udemy.com/
-          title: 'Artificial Intelligence (ARS): Build the Most Powerful AI'
-          url: 'https://www.udemy.com/course/artificial-intelligence-ars'
+          title: "Artificial Intelligence (ARS): Build the Most Powerful AI"
+          url: "https://www.udemy.com/course/artificial-intelligence-ars"
     design:
-      columns: '2'
+      columns: "2"
   # - block: collection
   #   id: posts
   #   content:
@@ -273,11 +283,11 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: ""
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '1'
+      columns: "1"
   # - block: collection
   #   id: featured
   #   content:
@@ -328,34 +338,34 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: odin.nordico90@gmail.com
       # phone: 888 888 88 88
-      appointment_url: 'https://calendly.com/dlalfonso/30min'
+      appointment_url: "https://calendly.com/dlalfonso/30min"
       # address:
-      #   street: 
-      #   city: 
-      #   region: 
+      #   street:
+      #   city:
+      #   region:
       #   postcode: ''
       #   country: Colombia
       #   country_code: CO
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 09:00 to 17:00'
-        - 'Tuesday 09:00 to 17:00'
-        - 'Wednesday 09:00 to 17:00'
-        - 'Thursday 09:00 to 17:00'
-        - 'Friday 09:00 to 17:00'
+        - "Monday 09:00 to 17:00"
+        - "Tuesday 09:00 to 17:00"
+        - "Wednesday 09:00 to 17:00"
+        - "Thursday 09:00 to 17:00"
+        - "Friday 09:00 to 17:00"
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '4.7248712'
-        longitude: '-73.9629956'
+        latitude: "4.7248712"
+        longitude: "-73.9629956"
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/diego_alfonso_'
+          link: "https://twitter.com/diego_alfonso_"
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://us04web.zoom.us/j/3037994640'
+          link: "https://us04web.zoom.us/j/3037994640"
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -367,5 +377,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: "2"
 ---
