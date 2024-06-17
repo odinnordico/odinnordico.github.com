@@ -52,8 +52,8 @@ sections:
           company_url: https://docs.vmware.com/en/VMware-Tanzu/index.html
           company_logo: tanzu
           location: Remote - Colombia
-          date_start: "2023-02-01"
-          date_end: "2020-12-01"
+          date_start: "2021-08-09"
+          date_end: "2023-02-01"
           description: |2-
               Responsibilities include:
 
