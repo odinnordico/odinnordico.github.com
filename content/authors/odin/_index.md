@@ -49,47 +49,47 @@ skills:
   - name: Technical
     items:
       - name: Golang
-        description: ''
+        description: ""
         percent: 85
         icon: go
         icon_pack: fab
       - name: Python
-        description: ''
+        description: ""
         percent: 60
         icon: python
         icon_pack: fab
       - name: java
-        description: ''
+        description: ""
         percent: 75
         icon: java
         icon_pack: fab
       - name: SQL
-        description: ''
+        description: ""
         percent: 50
         icon: postgresql
         icon_pack: devicon
       - name: GCP
-        description: ''
+        description: ""
         icon: googlecloud
         icon_pack: devicon
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
       - name: Rinding Motorcycle
-        description: ''
+        description: ""
         percent: 100
         icon: motorcycle
         icon_pack: fas
       - name: Dogs
-        description: ''
+        description: ""
         percent: 100
         icon: dog
         icon_pack: fas
       - name: Videogames
-        description: ''
+        description: ""
         percent: 60
-        icon:  gamepad
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
@@ -99,7 +99,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "/#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/diego_alfonso_
@@ -111,7 +111,7 @@ social:
     link: https://github.com/odinnordico
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/diego-leonardo-alfonso-avil%C3%A1n-30267261/
+    link: https://www.linkedin.com/in/odinnordico
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
