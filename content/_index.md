@@ -32,37 +32,21 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Senior Member of Technical Staff
-          company: Broadcom
-          company_url: https://docs.vmware.com/en/VMware-Tanzu/index.html
-          company_logo: tanzu
-          location: Remote - Colombia
-          date_start: "2024-02-01"
-          date_end: "2024-06-03"
-          description: |2-
-              Responsibilities include:
-
-              * Development
-              * Analysing
-              * Modelling
-              * Deploying
-              * Testing
-              * Support
-        - title: Senior Member of Technical Staff
-          company: VMWare
+          company: VMWare By Broadcom
           company_url: https://docs.vmware.com/en/VMware-Tanzu/index.html
           company_logo: tanzu
           location: Remote - Colombia
           date_start: "2021-08-09"
-          date_end: "2023-02-01"
+          date_end: "2024-06-03"
           description: |2-
               Responsibilities include:
 
-              * Development
-              * Analysing
-              * Modelling
-              * Deploying
-              * Testing
-              * Support
+              * Build an maintain the CLI and some of its plugins for the VMware Tanzu Platform.
+              * Designed build and maintain different kubernetes controllers.
+              * Built and maintain automated CI/CD pipelines on GitHub and internal Concourse CI/CD Pipelines using Docker, GCP and gitops.
+              * Build and maintain several internal tools to help the development of the products.
+              * Release and generate documentation for different team products.
+              * Mentored junior developers and conducted code reviews to ensure adherence to best practices and maintain high‐quality standards.
         - title: Backend JVM Engineer
           company: Addi
           company_url: https://co.addi.com/
@@ -73,12 +57,13 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Development
-              * Analysing
-              * Modelling
-              * Deploying
-              * Testing
-              * Support
+              * Owns the pieces of the platform that you architect, implement, test, deploy, monitor and fix on production.
+              * Coordinate services using async queues and reactive programming with Java and Quarkus
+              * Maintains and builds the required technical skills to fulfill the responsibilities.
+              * Be a team level expert of a particular domain or specific components of the platform.
+              * Design, propose and implement new features or fixed in the platform.
+              * Build an maintain the back‐end of a digital payments.
+              * Help in the shaping of the bets on each cycle
         - title: Senior Software Engineer
           company: Blanc Labs
           company_url: https://blanclabs.com/
@@ -89,12 +74,12 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Development
-              * Analysing
-              * Modelling
-              * Deploying
-              * Testing
-              * Support
+              * Cloud development, using PCF (Pivotal Cloud Foundry), also Spring micro‐services technology.
+              * Design proposals for commercial lending platforms under architectural procedures and standards established.
+              * Development and implementation of a software product for the banking sector. Participation in different phases of the implementation and development of it.
+              * Definition of architecture, best practices and guideline of development for different micro‐services used in this project.
+              * Develop UI using Angular 8+
+              * Coordinate with business the task to be aligned with requirements and current development
         - title: Senior Java Software Engineer
           company: Globant
           company_url: https://www.globant.com/
@@ -105,13 +90,16 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Development
-              * Analysing
-              * Modelling
-              * Deploying
-              * Testing
-              * Support
-        - title: Senior Java Software Engineer
+              * Develop integration components with strong design patterns bases
+              * Lead internal projects for sub components developed with Spring Integration
+              * Development of micro-services with Java and Spring/Boot for aircraft maintenance
+              * Development of different components to interact with async messaging services
+              * Design and orchestration of different components
+              * Coordinate with other teams the architecture and solutions proposals to be aligned where commons components exist
+              * Create microservices, batch, lambdas for the client, this integrated with AWS services, artifacts and projects configuration, maintain legacy projects, integrate services with internal project libraries and services, support of teammates with problem solving and guide on the structure for the projects, document technical process and implementation.
+              * BDD and TDD
+              * Mentoring junior colleages
+        - title: Senior Product Engineer
           company: DragonTech Latinoamerica
           company_url: https://www.linkedin.com/in/dragon-tech-a35aa780/
           company_logo: dragontech
@@ -121,12 +109,17 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Development
-              * Analysing
-              * Modelling
-              * Deploying
-              * Testing
-              * Support
+              * Improve and upgrade the current features in the platform for Contact Centers
+              * Keep Asterisk and Java integration upgraded with latest stable releases
+              * Add features to the existing in-house platform for Contact Center
+              * Develop different contact center IVR flows with an in‐house solution based on jBPM
+              * On‐site support
+              * Maintain the PostgreSQL Database updated based on the requirements
+              * Migrate the front end from jsp to jQuery libraries
+              * Design and implement new modules for the in-house platform
+              * R&D for new products to offer to Contact Centers
+              * Development of a Licencing server for a subscription-based model
+              * Lead internal projects
         - title: Ingeniero Junior
           company: ITAC CO
           company_url: https://itac.co
@@ -137,12 +130,11 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Development
-              * Analysing
-              * Modelling
-              * Deploying
-              * Testing
-              * Support
+              * Meet the BAs and QAs so the development will be sync with the requirements
+              * Development of user interfaces using Prime Faces for financial institutions 
+              * Develop integration back end modules between the platform and the banks using Java with different design patterns
+              * Develop SQL scripts for the platform (SQL Server) and the corresponding JPA communications
+              * Implement a full workflow for a process in my early days in the project
         - title: Software Engineer
           company: SMS Americas
           company_url: https://products.mobile-americas.com/
@@ -153,11 +145,12 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Development
-              * Analysing
-              * Modelling
-              * Deploying
-              * Testing
+              * Maintain the infrastructure (Apache, PostgreSQL, Linux Servers) and base scripts (PHP / Python) for each in/out message and the batch processing for massive messages generation
+              * Update and develop new flows for SMS depending on the providers requests (games, trivia, subscriptions)
+              * Monitoring and analysis of the platform performance and design strategies to improve it
+              * Started the migration of the whole platform from PHP to JAVA to run in JBOSS server
+              * Design and implement an interface to communicate with a TV provider to show interactive messages
+              * Design and implement a mobile application for restaurant promotions
               * Support
     design:
       columns: "2"

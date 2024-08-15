@@ -3,7 +3,7 @@
 title: Diego Alfonso
 
 # Name pronunciation (optional)
-name_pronunciation: Diego Alfonso
+name_pronunciation: He/Him/His
 
 # Full name (for SEO)
 first_name: Diego Leonardo
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Member of Technical Staff
+role: Senior Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
