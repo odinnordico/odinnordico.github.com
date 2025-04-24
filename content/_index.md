@@ -31,6 +31,36 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior software Engineer - Golang
+          company: Wizeline
+          company_url: https://www.wizeline.com/
+          company_logo: wizeline
+          location: Remote - Colombia
+          date_start: "2025-02-10"
+          date_end:
+          description: |2-
+              Responsibilities include:
+
+              * Architect and implement features for a customer in media business using Go.
+              * Support operation of the authentication and authorization process for users of a media platform on services implemented in Go.
+              * Update partners configuration on a media platform databases.
+        - title: Independent Golang Engineer Consultant
+          company: Self-Employed}
+          company_url: https://odinnordico.github.io/
+          company_logo:
+          location: Remote - Colombia
+          date_start: "2021-07-01"
+          date_end: "2025-01-31"
+          description: |2-
+              Responsibilities include:
+
+              *Architect and implement robust Go applications for Kubernetes controllers, CLI tools, and microservice APIs.
+              * Write clean, efficient Go code, integrating with relevant libraries, APIs (Kubernetes, external services), and system interfaces.
+              * Implement testing strategies (unit, integration) and participate in code reviews to ensure reliability and correctness across project types.
+              * Design and implement deployment artifacts and configurations for containerized applications (controllers, microservices) and package CLIs.
+              * Identify and resolve performance issues and resource bottlenecks specific to each application type.
+              * Diagnose and fix technical problems in development and production environments.
+              * Clearly document designs, code, and usage, and communicate effectively with teams and stakeholders.
         - title: Senior Member of Technical Staff
           company: VMWare By Broadcom
           company_url: https://docs.vmware.com/en/VMware-Tanzu/index.html
